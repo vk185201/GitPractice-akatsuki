@@ -1,9 +1,0 @@
-Hii,I'm Kummari Vinay
-
-I'm pursuing my dual degree(B.Tech+M.Tech) in JNTUH in the field of Electronics and Communication engineering.My interests are competitive programming,movies,sports.
-Projects:
-1.Genrating super resolution images from low resolution images using Generative Adversial Network(Deep Learning).
-2.Eye blink detection using Opencv,Python
-3.Food order management system using Python/Java with mysql(Mysql workbench). 
-4.Security surveillance System using Arduino
-5.MyCompass APK using Ardroid Studio

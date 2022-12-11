@@ -1,0 +1,9 @@
+Hi,All
+This is Karthik
+Graduating in Electronics and Communication from Jawaharlal Nehru Technological University
+Hobbies include Competitive programming,Badminton,Volleyball and Cricket
+Projects include:
+- E-commerce web Application using React
+- Helmet detection using YOLO Algorithm
+- Face detection using python
+- Various websites from scratch using wordpress
